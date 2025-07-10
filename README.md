@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Tracking my Dart learning journey with practice problems and topic-based exercises. Preparing for future Dart + Flutter projects!
